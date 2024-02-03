@@ -14,9 +14,7 @@
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and Tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    &nbsp;
-    <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp;
     <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="40" /> 
     &nbsp;
@@ -29,6 +27,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/machinelearning/machinelearning-plain.svg" alt="Machine Learning" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-plain.svg" alt="Kaggle" width="40" height="40"/>
+    &nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 <br>
