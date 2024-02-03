@@ -26,19 +26,19 @@
 <p>
 </p>
 <p>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sureshkrishh&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sriharidr&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 <details align="left">
 <summary>GitHub Trophies 🏆</summary>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sureshkrishh&theme=gruvbox&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Sriharidr&theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
     
 <h4 align="left">
-Show ❤️ By Starring My <a href='https://github.com/Sureshkrishh?tab=repositories'>
-<img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Sureshkrishh&logoColor=blue" />
+Show ❤️ By Starring My <a href='https://github.com/Sriharidr?tab=repositories'>
+<img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Sriharidr&logoColor=blue" />
 </a></h4>
 <br>
 
