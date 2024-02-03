@@ -1,15 +1,15 @@
-### Hello there 👋
+### Hello there! 👋
 
 <img align="right" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif/">
 
-- 🔭 I’m currently working on Data science projects.
-- 🌱 I’m currently learning Deep Learning.
-- 👯 I’m looking to collaborate on any end-to-end Data science project.
-- 💬 Ask me about anything; I'll try my best to share my knowledge.
-- 📫 How to reach me: sriharidr1999@gmail.com
-- 💭 Quote: “I believe AI is going to change the world more than anything in the history of humanity."
-- 🥅 2024 Goals: To be more productive and successful 
-- ⚡ Fun fact: I'm a graduate civil engineer
+- 🔭 Currently immersed in exciting Data Science projects.
+- 🌱 Learning the nuances of Deep Learning.
+- 👯 Open to collaborating on end-to-end Data Science projects.
+- 💬 Ask me anything; I'm always eager to share knowledge.
+- 📫 Reach me at: sriharidr1999@gmail.com
+- 💭 Quote: "I believe AI is going to change the world more than anything in the history of humanity."
+- 🥅 2024 Goals: Achieve higher levels of productivity and success.
+- ⚡ Fun fact: Proud graduate in Civil Engineering.
 
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and Tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
