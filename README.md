@@ -18,13 +18,9 @@
     &nbsp;
     <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="40" /> 
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-    &nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/>
     &nbsp;
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQL" width="40" height="40"/>
-    &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/machinelearning/machinelearning-plain.svg" alt="Machine Learning" width="40" height="40"/>
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
