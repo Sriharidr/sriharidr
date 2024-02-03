@@ -22,7 +22,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>
     
 <br>
-<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<img height="27" src="https://img.shields.io/badge/Sriharidr's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
 <p>
 </p>
 <p>&nbsp;
@@ -44,7 +44,7 @@ Show ❤️ By Starring My <a href='https://github.com/Sriharidr?tab=repositorie
 
 <h4 align="left">
     <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/sureshkrishh/">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
+        <a href="https://www.linkedin.com/in/sriharidr/">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sriharidr linkedin" width="24px" />
     </a>
 </h4> 
