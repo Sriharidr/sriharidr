@@ -26,8 +26,6 @@
     &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/machinelearning/machinelearning-plain.svg" alt="Machine Learning" width="40" height="40"/>
     &nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-plain.svg" alt="Kaggle" width="40" height="40"/>
-    &nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
