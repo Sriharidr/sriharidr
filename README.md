@@ -13,8 +13,7 @@
 
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and Tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
-<img height="30" src="https://img.shields.io/badge/Super Data Analyst- 📊-brightgreen.svg?&style=for-the-badge&logo=datacamp&logoColor=white" />
-
+<p align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp;
     <img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="40" /> 
