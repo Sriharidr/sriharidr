@@ -1,23 +1,50 @@
-<h1 align="center">Hi 👋, I'm Srihari D R</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+### Hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sriharidr&label=Profile%20views&color=0e75b6&style=flat" alt="sriharidr" /> </p>
+<img align= "right" alt="GIF" width="500px" height="280px" src="https://github.com/Sureshkrishh/Sureshkrishh/blob/main/Images/profile.gif/">
 
-- 🔭 I’m currently working on **strengthening my GitHub portfolio with a focus on data science projects.**
+- 🔭 I’m currently working on Data science projects.
+- 🌱 I’m currently learning Deep Learning.
+- 👯 I’m looking to collaborate on any end to end Data science project.
+- 💬 Ask me about anything, I ll try my best to share my knowledge.
+- 📫 How to reach me: sriharidr1999@gmail.com
+- 💭 Quote: “I believe AI is going to change the world more than anything in the history of humanity".
+- 🥅 2024 Goals: To be more productive and successful 
+- ⚡ Fun fact: I'm graduate civil engineer
 
-- 🌱 I’m currently learning **Passionate Learner**
-
-- 📫 How to reach me **cconnect on LinkedIn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/srihari-d-r-00526a14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/srihari-d-r-00526a14a" height="30" width="40" /></a>
-<a href="https://kaggle.com/sriharidr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sriharidr" height="30" width="40" /></a>
+<br>
+<img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
+<img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+<img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="40" height="40"/><br>
+    
+<br>
+<img height="27" src="https://img.shields.io/badge/Suresh Krishna's GitHub Status- 📈-lightgreen.svg?&style=for-the-badge&logo=KushalDas&logoColor=blue" />
+<p>
 </p>
+<p>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sureshkrishh&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+<details align="left">
+<summary>GitHub Trophies 🏆</summary>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sureshkrishh&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+</details>
+    
+<h4 align="left">
+Show ❤️ By Starring My <a href='https://github.com/Sureshkrishh?tab=repositories'>
+<img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=Sureshkrishh&logoColor=blue" />
+</a></h4>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharidr&show_icons=true&locale=en&layout=compact" alt="sriharidr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriharidr&show_icons=true&locale=en" alt="sriharidr" /></p>
+<h4 align="left">
+    <img align="center" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Handshake.gif" height="30px">Connect with me &nbsp; 👉 &nbsp;  
+        <a href="https://www.linkedin.com/in/sureshkrishh/">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Sureshkrishna linkedin" width="24px" />
+    </a>
+</h4> 
